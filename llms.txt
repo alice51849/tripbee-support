@@ -1,0 +1,18 @@
+# TripBee Pro: Trip Planner — official support
+
+> Official support, privacy, App Store, and guide links for TripBee Pro: Trip Planner.
+
+## Apps
+
+- [TripBee Pro: Trip Planner on the App Store](https://apps.apple.com/app/id6787754435)
+- [TripBee Pro: Trip Planner independent guide](https://alice51849.github.io/ios-app-guide/guides/tripbee.html)
+
+## Support
+
+- [Official support site](https://alice51849.github.io/tripbee-support/)
+- [Privacy policy](https://alice51849.github.io/tripbee-support/privacy.html)
+- [Support and FAQ](https://alice51849.github.io/tripbee-support/support.html)
+
+## Portfolio
+
+- [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
