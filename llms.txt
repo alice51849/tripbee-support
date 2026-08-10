@@ -9,6 +9,7 @@
 
 ## Support
 
+- [Help, FAQ and troubleshooting](https://alice51849.github.io/tripbee-support/help.html)
 - [Official support site](https://alice51849.github.io/tripbee-support/)
 - [Privacy policy](https://alice51849.github.io/tripbee-support/privacy.html)
 - [Support and FAQ](https://alice51849.github.io/tripbee-support/support.html)
