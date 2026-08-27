@@ -5,7 +5,7 @@ Official support resources and verified App Store links for **TripBee Pro: Trip 
 
 ## Get the app
 
-Private offline day-by-day trip planner with smart family packing lists and one-tap Apple Maps directions.
+Offline-first day-by-day trip planner with private iCloud sync, shared-trip editing, smart family packing lists, ticket attachments and one-tap Apple Maps directions.
 
 - **[View TripBee Pro: Trip Planner on the App Store](https://apps.apple.com/app/id6787754435)**
 - [Read the product guide](https://alice51849.github.io/ios-app-guide/guides/tripbee.html)
