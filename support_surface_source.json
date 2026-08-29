@@ -1,0 +1,1624 @@
+{
+  "app": {
+    "app_key": "tripbee",
+    "app_store_id": "6787754435",
+    "kids": false,
+    "purchase_model": "paid_upfront"
+  },
+  "base_sha": "a789d5161d2b3ce2930654ed85f9fc597d1413a9",
+  "base_url": "https://alice51849.github.io/tripbee-support/",
+  "blocked_cells": {},
+  "brand": {
+    "accent": "#2d5e96",
+    "icon": "logo.png"
+  },
+  "catalog_locales": {
+    "ar-SA": {
+      "app_name": "TripBee Pro: مخطط الرحلات",
+      "app_store_cta_label": "احصل على TripBee Pro: مخطط الرحلات من متجر التطبيقات →",
+      "app_store_url": "https://apps.apple.com/sa/app/id6787754435?pt=118326163&ct=iag_data_ar_sa&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "تطبيق مسار جيد يحول رحلة فوضوية إلى جدول زمني يومي واضح — رحلات جوية، فنادق، أنشطة، مطاعم، ونقل — مع أيقونات نوع واضحة لتقرأ يومك بنظرة — تم تصميم TripBee Pro: مخطط الرحلات لهذا.",
+      "verified_live": true
+    },
+    "bn-BD": {
+      "app_name": "TripBee Pro: ট্রিপ প্ল্যানার",
+      "app_store_cta_label": "App Store-এ TripBee Pro: ট্রিপ প্ল্যানার পান →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_bn_bd&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "একটি ভাল ইটিনারারি অ্যাপ বিশৃঙ্খল ট্রিপকে স্পষ্ট দিন-প্রতি-দিন টাইমলাইনে রূপান্তর করে — ফ্লাইট, হোটেল, কার্যক্রম, রেস্টুরেন্ট এবং পরিবহন — স্পষ্ট টাইপ আইকন সহ যাতে আপনি এক নজরে আপনার দিন পড়তে পারেন — TripBee Pro: ট্রিপ প্ল্যানার এই জন্য তৈরি।",
+      "verified_live": true
+    },
+    "ca": {
+      "app_name": "TripBee Pro: Planificador de Viatges",
+      "app_store_cta_label": "Descarrega TripBee Pro: Planificador de Viatges a l’App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6787754435?pt=118326163&ct=iag_data_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Una bona app d’itineraris converteix un viatge desordenat en una línia de temps clara dia a dia — vols, hotels, activitats, restaurants i transport — amb icones clares per tipus perquè puguis llegir el teu dia d’un cop d’ull — TripBee Pro: Planificador de Viatges està dissenyada per això.",
+      "verified_live": true
+    },
+    "cs": {
+      "app_name": "TripBee Pro: Plánovač cest",
+      "app_store_cta_label": "Stáhněte TripBee Pro: Plánovač cest v App Store →",
+      "app_store_url": "https://apps.apple.com/cz/app/id6787754435?pt=118326163&ct=iag_data_cs&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Dobrá aplikace na itinerář promění chaotickou cestu v přehledný denní plán — lety, hotely, aktivity, restaurace a doprava — s přehlednými ikonami, abyste měli den na první pohled — TripBee Pro: Plánovač cest je na to stavěný.",
+      "verified_live": true
+    },
+    "da": {
+      "app_name": "TripBee Pro: Rejseplanlægger",
+      "app_store_cta_label": "Hent TripBee Pro: Rejseplanlægger i App Store →",
+      "app_store_url": "https://apps.apple.com/dk/app/id6787754435?pt=118326163&ct=iag_data_da&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "En god rejseplanlægningsapp forvandler en rodet rejse til en klar dag-for-dag tidslinje — fly, hoteller, aktiviteter, restauranter og transport — med klare typeikoner, så du kan læse din dag med et blik — TripBee Pro: Rejseplanlægger er skabt til dette.",
+      "verified_live": true
+    },
+    "de-DE": {
+      "app_name": "TripBee Pro: Reiseplaner",
+      "app_store_cta_label": "TripBee Pro: Reiseplaner im App Store herunterladen →",
+      "app_store_url": "https://apps.apple.com/de/app/id6787754435?pt=118326163&ct=iag_data_de_de&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Eine gute Reiseplaner-App verwandelt eine chaotische Reise in eine klare Tagesübersicht – Flüge, Hotels, Aktivitäten, Restaurants und Transport – mit klaren Symbolen, damit Sie Ihren Tag auf einen Blick erfassen können – TripBee Pro: Reiseplaner ist genau dafür gemacht.",
+      "verified_live": true
+    },
+    "el": {
+      "app_name": "TripBee Pro: Σχεδιασμός Ταξιδιού",
+      "app_store_cta_label": "Κατεβάστε το TripBee Pro: Trip Planner από το App Store →",
+      "app_store_url": "https://apps.apple.com/gr/app/id6787754435?pt=118326163&ct=iag_data_el&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Μια καλή εφαρμογή προγράμματος μετατρέπει ένα ακατάστατο ταξίδι σε καθαρό χρονοδιάγραμμα ημέρας — πτήσεις, ξενοδοχεία, δραστηριότητες, εστιατόρια και μεταφορές — με καθαρά εικονίδια τύπου ώστε να διαβάζετε τη μέρα σας με μια ματιά — το TripBee Pro: Trip Planner είναι φτιαγμένο γι’ αυτό.",
+      "verified_live": true
+    },
+    "en-AU": {
+      "app_name": "TripBee Pro: Trip Planner",
+      "app_store_cta_label": "Get TripBee Pro: Trip Planner on the App Store →",
+      "app_store_url": "https://apps.apple.com/au/app/id6787754435?pt=118326163&ct=iag_data_en_au&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "A good itinerary app turns a messy trip into a clear day-by-day timeline — flights, hotels, activities, restaurants and transport — with clear type icons so you can read your day at a glance — TripBee Pro: Trip Planner is built for this.",
+      "verified_live": true
+    },
+    "en-CA": {
+      "app_name": "TripBee Pro: Trip Planner",
+      "app_store_cta_label": "Get TripBee Pro: Trip Planner on the App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6787754435?pt=118326163&ct=iag_data_en_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "A good itinerary app turns a messy trip into a clear day-by-day timeline — flights, hotels, activities, restaurants and transport — with clear type icons so you can read your day at a glance — TripBee Pro: Trip Planner is built for this.",
+      "verified_live": true
+    },
+    "en-GB": {
+      "app_name": "TripBee Pro: Trip Planner",
+      "app_store_cta_label": "Get TripBee Pro: Trip Planner on the App Store →",
+      "app_store_url": "https://apps.apple.com/gb/app/id6787754435?pt=118326163&ct=iag_data_en_gb&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "A good itinerary app turns a messy trip into a clear day-by-day timeline — flights, hotels, activities, restaurants and transport — with clear type icons so you can read your day at a glance — TripBee Pro: Trip Planner is built for this.",
+      "verified_live": true
+    },
+    "en-US": {
+      "app_name": "TripBee Pro: Trip Planner",
+      "app_store_cta_label": "Get TripBee Pro: Trip Planner on the App Store →",
+      "app_store_url": "https://apps.apple.com/us/app/id6787754435?pt=118326163&ct=iag_data_en_us&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "A good itinerary app turns a messy trip into a clear day-by-day timeline — flights, hotels, activities, restaurants and transport — with clear type icons so you can read your day at a glance — TripBee Pro: Trip Planner is built for this.",
+      "verified_live": true
+    },
+    "es-ES": {
+      "app_name": "TripBee Pro: Planificador de Viajes",
+      "app_store_cta_label": "Consigue TripBee Pro: Planificador de Viajes en la App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6787754435?pt=118326163&ct=iag_data_es_es&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Una buena app de itinerarios convierte un viaje caótico en una línea de tiempo clara día a día — vuelos, hoteles, actividades, restaurantes y transporte — con iconos claros por tipo para que leas tu día de un vistazo — TripBee Pro: Planificador de Viajes está diseñada para esto.",
+      "verified_live": true
+    },
+    "es-MX": {
+      "app_name": "TripBee Pro: Planificador de Viajes",
+      "app_store_cta_label": "Obtén TripBee Pro: Planificador de Viajes en la App Store →",
+      "app_store_url": "https://apps.apple.com/mx/app/id6787754435?pt=118326163&ct=iag_data_es_mx&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Una buena app de itinerarios convierte un viaje desordenado en una línea de tiempo clara día a día — vuelos, hoteles, actividades, restaurantes y transporte — con íconos claros por tipo para que leas tu día de un vistazo — TripBee Pro: Planificador de Viajes está diseñado para esto.",
+      "verified_live": true
+    },
+    "fi": {
+      "app_name": "TripBee Pro: Matkasuunnittelija",
+      "app_store_cta_label": "Hanki TripBee Pro: Matkasuunnittelija App Storesta →",
+      "app_store_url": "https://apps.apple.com/fi/app/id6787754435?pt=118326163&ct=iag_data_fi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Hyvä aikataulusovellus muuttaa sekavan matkan selkeäksi päiväkohtaiseksi aikajanaksi — lennot, hotellit, aktiviteetit, ravintolat ja kuljetukset — selkeillä tyyppikuvakkeilla, jotta näet päivän yhdellä silmäyksellä — TripBee Pro: Matkasuunnittelija on tehty tätä varten.",
+      "verified_live": true
+    },
+    "fr-CA": {
+      "app_name": "TripBee Pro : Planificateur de voyage",
+      "app_store_cta_label": "Obtenez TripBee Pro : Planificateur de voyage sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6787754435?pt=118326163&ct=iag_data_fr_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Une bonne application d’itinéraire transforme un voyage désordonné en une chronologie claire jour par jour — vols, hôtels, activités, restaurants et transports — avec des icônes claires par type pour lire votre journée d’un coup d’œil — TripBee Pro : Planificateur de voyage est conçu pour cela.",
+      "verified_live": true
+    },
+    "fr-FR": {
+      "app_name": "TripBee Pro : Planificateur de voyage",
+      "app_store_cta_label": "Téléchargez TripBee Pro : Planificateur de voyage sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/fr/app/id6787754435?pt=118326163&ct=iag_data_fr_fr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Une bonne application d’itinéraire transforme un voyage désordonné en une chronologie claire jour par jour — vols, hôtels, activités, restaurants et transports — avec des icônes claires par type pour lire votre journée en un coup d’œil — TripBee Pro : Planificateur de voyage est conçu pour cela.",
+      "verified_live": true
+    },
+    "gu-IN": {
+      "app_name": "TripBee Pro: ટ્રિપ પ્લાનર",
+      "app_store_cta_label": "App Store પર TripBee Pro: ટ્રિપ પ્લાનર મેળવો →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_gu_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "એક સારી ઇટિનરરી એપ ગંદલી ટ્રિપને સ્પષ્ટ દિનદીઠ સમયરેખામાં ફેરવે છે — ફ્લાઇટ્સ, હોટેલ્સ, પ્રવૃત્તિઓ, રેસ્ટોરાં અને પરિવહન — સ્પષ્ટ પ્રકાર ચિહ્નો સાથે જેથી તમે એક નજરમાં તમારો દિવસ વાંચી શકો — TripBee Pro: ટ્રિપ પ્લાનર આ માટે બનાવવામાં આવી છે.",
+      "verified_live": true
+    },
+    "he": {
+      "app_name": "TripBee Pro: מתכנן טיולים",
+      "app_store_cta_label": "קבל את TripBee Pro: מתכנן טיולים ב-App Store →",
+      "app_store_url": "https://apps.apple.com/il/app/id6787754435?pt=118326163&ct=iag_data_he&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "אפליקציית מסלול טובה הופכת טיול מבולגן ללוח זמנים יומי ברור — טיסות, בתי מלון, פעילויות, מסעדות ותחבורה — עם אייקוני סוג ברורים כדי שתוכל לקרוא את יומך במבט חטוף — TripBee Pro: מתכנן טיולים נבנתה לכך.",
+      "verified_live": true
+    },
+    "hi": {
+      "app_name": "TripBee Pro: ट्रिप प्लानर",
+      "app_store_cta_label": "App Store से TripBee Pro: ट्रिप प्लानर प्राप्त करें →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_hi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "एक अच्छा इटिनरेरी ऐप एक अव्यवस्थित यात्रा को स्पष्ट दिन-प्रतिदिन की टाइमलाइन में बदल देता है — फ्लाइट्स, होटल, गतिविधियाँ, रेस्तरां और परिवहन — स्पष्ट प्रकार के आइकन के साथ ताकि आप एक नज़र में अपना दिन पढ़ सकें — TripBee Pro: ट्रिप प्लानर इसे ध्यान में रखकर बनाया गया है।",
+      "verified_live": true
+    },
+    "hr": {
+      "app_name": "TripBee Pro: Planer putovanja",
+      "app_store_cta_label": "Preuzmite TripBee Pro: Planer putovanja u App Storeu →",
+      "app_store_url": "https://apps.apple.com/hr/app/id6787754435?pt=118326163&ct=iag_data_hr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Dobra aplikacija za planiranje pretvara kaotično putovanje u jasan dnevni raspored — letovi, hoteli, aktivnosti, restorani i prijevoz — s jasnim ikonama tipova da možete na prvi pogled vidjeti svoj dan — TripBee Pro: Planer putovanja je stvoren za to.",
+      "verified_live": true
+    },
+    "hu": {
+      "app_name": "TripBee Pro: Utazástervező",
+      "app_store_cta_label": "Szerezd be a TripBee Pro: Utazástervezőt az App Store-ból →",
+      "app_store_url": "https://apps.apple.com/hu/app/id6787754435?pt=118326163&ct=iag_data_hu&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Egy jó útiterv alkalmazás a kusza utazást világos napi bontású idővonalra alakítja — repülőjegyek, szállások, programok, éttermek és közlekedés — egyértelmű típusikonokkal, hogy egy pillantással lásd a napodat — a TripBee Pro: Utazástervező erre készült.",
+      "verified_live": true
+    },
+    "id": {
+      "app_name": "TripBee Pro: Perencana Perjalanan",
+      "app_store_cta_label": "Dapatkan TripBee Pro: Trip Planner di App Store →",
+      "app_store_url": "https://apps.apple.com/id/app/id6787754435?pt=118326163&ct=iag_data_id&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Aplikasi rencana perjalanan yang baik mengubah perjalanan yang berantakan menjadi garis waktu harian yang jelas — penerbangan, hotel, aktivitas, restoran, dan transportasi — dengan ikon tipe yang jelas agar Anda bisa membaca hari Anda sekilas — TripBee Pro: Trip Planner dibuat untuk ini.",
+      "verified_live": true
+    },
+    "it": {
+      "app_name": "TripBee Pro: Pianificatore di Viaggi",
+      "app_store_cta_label": "Scarica TripBee Pro: Pianificatore di Viaggi dall’App Store →",
+      "app_store_url": "https://apps.apple.com/it/app/id6787754435?pt=118326163&ct=iag_data_it&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Una buona app per itinerari trasforma un viaggio disordinato in una timeline chiara giorno per giorno — voli, hotel, attività, ristoranti e trasporti — con icone chiare per tipo così puoi leggere la tua giornata a colpo d’occhio — TripBee Pro: Pianificatore di Viaggi è pensata per questo.",
+      "verified_live": true
+    },
+    "ja": {
+      "app_name": "TripBee Pro: 旅行プランナー",
+      "app_store_cta_label": "App StoreでTripBee Pro: Trip Plannerを入手 →",
+      "app_store_url": "https://apps.apple.com/jp/app/id6787754435?pt=118326163&ct=iag_data_ja&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "優れた旅程アプリは、まとまりのない旅行計画を明確な日別タイムラインに整理し、フライト、ホテル、アクティビティ、レストラン、交通機関を種類別アイコンで一目で確認できるようにします — TripBee Pro: Trip Planner はこのために作られています。",
+      "verified_live": true
+    },
+    "kn-IN": {
+      "app_name": "TripBee Pro: ಪ್ರವಾಸ ಯೋಜಕ",
+      "app_store_cta_label": "App Store ನಲ್ಲಿ TripBee Pro: ಪ್ರವಾಸ ಯೋಜಕ ಪಡೆಯಿರಿ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_kn_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ಒಂದು ಉತ್ತಮ ಯೋಜನಾ ಅಪ್ಲಿಕೇಶನ್ ಗೊಂದಲದ ಪ್ರವಾಸವನ್ನು ಸ್ಪಷ್ಟ ದಿನನಿತ್ಯ ಟೈಮ್‌ಲೈನ್ ಆಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ — ವಿಮಾನಗಳು, ಹೋಟೆಲ್‌ಗಳು, ಚಟುವಟಿಕೆಗಳು, ರೆಸ್ಟೋರೆಂಟ್‌ಗಳು ಮತ್ತು ಸಾರಿಗೆ — ಸ್ಪಷ್ಟ ಟೈಪ್ ಐಕಾನ್‌ಗಳೊಂದಿಗೆ ನೀವು ನಿಮ್ಮ ದಿನವನ್ನು ಒಂದು ನೋಟದಲ್ಲಿ ಓದಬಹುದು — TripBee Pro: ಪ್ರವಾಸ ಯೋಜಕ ಇದಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ.",
+      "verified_live": true
+    },
+    "ko": {
+      "app_name": "TripBee Pro: 여행 플래너",
+      "app_store_cta_label": "App Store에서 TripBee Pro: 여행 플래너 받기 →",
+      "app_store_url": "https://apps.apple.com/kr/app/id6787754435?pt=118326163&ct=iag_data_ko&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "좋은 일정 앱은 복잡한 여행을 명확한 일별 타임라인으로 바꾸고, 아이콘으로 하루 일정을 한눈에 볼 수 있게 합니다 — TripBee Pro: 여행 플래너는 이를 위해 만들어졌습니다.",
+      "verified_live": true
+    },
+    "ml-IN": {
+      "app_name": "TripBee Pro: യാത്രാ പ്ലാനർ",
+      "app_store_cta_label": "App Store-ൽ നിന്ന് TripBee Pro: Trip Planner നേടുക →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_ml_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ഒരു നല്ല യാത്രാമാർഗ്ഗം ആപ്പ് ഒരു അഴുക്കുള്ള യാത്രയെ വ്യക്തമായ ദിനംപ്രതി ടൈംലൈൻ ആക്കുന്നു — ഫ്ലൈറ്റുകൾ, ഹോട്ടലുകൾ, പ്രവർത്തനങ്ങൾ, റസ്റ്റോറന്റുകൾ, ഗതാഗതം — വ്യക്തമായ ടൈപ്പ് ഐക്കണുകളോടെ, നിങ്ങൾക്ക് നിങ്ങളുടെ ദിവസം ഒരു നോട്ടത്തിൽ വായിക്കാൻ കഴിയുന്ന വിധം — TripBee Pro: Trip Planner ഇതിന് രൂപകൽപ്പന ചെയ്തതാണ്.",
+      "verified_live": true
+    },
+    "mr-IN": {
+      "app_name": "TripBee Pro: प्रवास नियोजक",
+      "app_store_cta_label": "App Store वरून TripBee Pro: Trip Planner मिळवा →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_mr_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "एक चांगला इटिनरेरी अॅप गोंधळलेल्या ट्रिपला स्पष्ट दिवसभराच्या टाइमलाइनमध्ये रूपांतरित करतो — फ्लाइट्स, हॉटेल्स, क्रियाकलाप, रेस्टॉरंट्स आणि वाहतूक — स्पष्ट प्रकार चिन्हांसह जेणेकरून तुम्ही तुमचा दिवस एकदाच पाहू शकता — TripBee Pro: Trip Planner यासाठी तयार केलेले आहे.",
+      "verified_live": true
+    },
+    "ms": {
+      "app_name": "TripBee Pro: Perancang Perjalanan",
+      "app_store_cta_label": "Dapatkan TripBee Pro: Perancang Perjalanan di App Store →",
+      "app_store_url": "https://apps.apple.com/my/app/id6787754435?pt=118326163&ct=iag_data_ms&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Aplikasi jadual perjalanan yang baik mengubah perjalanan yang berselerak menjadi garis masa harian yang jelas — penerbangan, hotel, aktiviti, restoran dan pengangkutan — dengan ikon jenis yang jelas supaya anda boleh membaca hari anda dengan cepat — TripBee Pro: Perancang Perjalanan dibina untuk ini.",
+      "verified_live": true
+    },
+    "nl-NL": {
+      "app_name": "TripBee Pro: Reisplanner",
+      "app_store_cta_label": "Download TripBee Pro: Reisplanner in de App Store →",
+      "app_store_url": "https://apps.apple.com/nl/app/id6787754435?pt=118326163&ct=iag_data_nl_nl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Een goede routeplanner verandert een rommelige reis in een duidelijke dag-tot-dag tijdlijn — vluchten, hotels, activiteiten, restaurants en vervoer — met duidelijke type-iconen zodat je je dag in één oogopslag leest — TripBee Pro: Reisplanner is hiervoor gemaakt.",
+      "verified_live": true
+    },
+    "no": {
+      "app_name": "TripBee Pro: Reiseplanlegger",
+      "app_store_cta_label": "Last ned TripBee Pro: Reiseplanlegger i App Store →",
+      "app_store_url": "https://apps.apple.com/no/app/id6787754435?pt=118326163&ct=iag_data_no&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "En god reiseplan-app gjør en rotete tur om til en klar dag-for-dag tidslinje — fly, hotell, aktiviteter, restauranter og transport — med tydelige typeikoner så du kan lese dagen din på et blikk — TripBee Pro: Reiseplanlegger er laget for dette.",
+      "verified_live": true
+    },
+    "or-IN": {
+      "app_name": "TripBee Pro: ଯାତ୍ରା ଯୋଜନାକାରୀ",
+      "app_store_cta_label": "App Store ରୁ TripBee Pro: Trip Planner ଡାଉନଲୋଡ୍ କରନ୍ତୁ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_or_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ଭଲ ଇଟିନେରାରୀ ଆପ୍ ଏକ ଅସ୍ପଷ୍ଟ ଯାତ୍ରାକୁ ସ୍ପଷ୍ଟ ଦିନ ପ୍ରତି ଦିନ ଟାଇମ୍ଲାଇନ୍ ରୂପେ ପରିଣତ କରେ — ଫ୍ଲାଇଟ୍, ହୋଟେଲ୍, କାର୍ଯ୍ୟକଳାପ, ରେଷ୍ଟୁରାଣ୍ଟ ଏବଂ ପରିବହନ — ସ୍ପଷ୍ଟ ଟାଇପ୍ ଆଇକନ୍ ସହିତ ଯାହା ଆପଣଙ୍କୁ ଏକ ଦୃଷ୍ଟିରେ ଆପଣଙ୍କର ଦିନ ପଢ଼ିବାକୁ ସହାୟ କରେ — TripBee Pro: Trip Planner ଏହା ପାଇଁ ତିଆରି।",
+      "verified_live": true
+    },
+    "pa-IN": {
+      "app_name": "TripBee Pro: ਯਾਤਰਾ ਯੋਜਨਾਕਾਰ",
+      "app_store_cta_label": "App Store 'ਤੇ TripBee Pro: Trip Planner ਪ੍ਰਾਪਤ ਕਰੋ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_pa_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ਇੱਕ ਵਧੀਆ ਯਾਤਰਾ ਐਪ ਗੰਦੇ ਯਾਤਰਾ ਨੂੰ ਸਾਫ਼ ਦਿਨ-ਬਾਈ-ਦਿਨ ਟਾਈਮਲਾਈਨ ਵਿੱਚ ਬਦਲਦਾ ਹੈ — ਉਡਾਣਾਂ, ਹੋਟਲ, ਗਤੀਵਿਧੀਆਂ, ਰੈਸਟੋਰੈਂਟ ਅਤੇ ਆਵਾਜਾਈ — ਸਾਫ਼ ਟਾਈਪ ਆਈਕਾਨਾਂ ਨਾਲ ਤਾਂ ਜੋ ਤੁਸੀਂ ਆਪਣਾ ਦਿਨ ਇੱਕ ਨਜ਼ਰ ਵਿੱਚ ਪੜ੍ਹ ਸਕੋ — TripBee Pro: Trip Planner ਇਸ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "verified_live": true
+    },
+    "pl": {
+      "app_name": "TripBee Pro: Planer podróży",
+      "app_store_cta_label": "Pobierz TripBee Pro: Planer podróży w App Store →",
+      "app_store_url": "https://apps.apple.com/pl/app/id6787754435?pt=118326163&ct=iag_data_pl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Dobra aplikacja do planowania zmienia chaotyczną podróż w jasny plan dzień po dniu — loty, hotele, atrakcje, restauracje i transport — z czytelnymi ikonami, byś mógł szybko odczytać swój dzień — TripBee Pro: Planer podróży jest stworzony właśnie do tego.",
+      "verified_live": true
+    },
+    "pt-BR": {
+      "app_name": "TripBee Pro: Planejador de Viagens",
+      "app_store_cta_label": "Baixe o TripBee Pro: Planejador de Viagens na App Store →",
+      "app_store_url": "https://apps.apple.com/br/app/id6787754435?pt=118326163&ct=iag_data_pt_br&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Um bom app de roteiro transforma uma viagem confusa em uma linha do tempo clara dia a dia — voos, hotéis, atividades, restaurantes e transporte — com ícones claros por tipo para você ler seu dia rapidamente — TripBee Pro: Planejador de Viagens foi feito para isso.",
+      "verified_live": true
+    },
+    "pt-PT": {
+      "app_name": "TripBee Pro: Planeador de Viagens",
+      "app_store_cta_label": "Obtenha o TripBee Pro: Planeador de Viagens na App Store →",
+      "app_store_url": "https://apps.apple.com/pt/app/id6787754435?pt=118326163&ct=iag_data_pt_pt&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Uma boa app de itinerário transforma uma viagem confusa numa linha temporal clara dia a dia — voos, hotéis, atividades, restaurantes e transportes — com ícones claros por tipo para que possa ler o seu dia de relance — TripBee Pro: Planeador de Viagens foi criado para isso.",
+      "verified_live": true
+    },
+    "ro": {
+      "app_name": "TripBee Pro: Planificator de călătorii",
+      "app_store_cta_label": "Descarcă TripBee Pro: Planificator de călătorii din App Store →",
+      "app_store_url": "https://apps.apple.com/ro/app/id6787754435?pt=118326163&ct=iag_data_ro&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "O aplicație bună de itinerar transformă o călătorie dezordonată într-un calendar clar zi de zi — zboruri, hoteluri, activități, restaurante și transport — cu pictograme clare de tip ca să poți citi ziua dintr-o privire — TripBee Pro: Planificator de călătorii este construit pentru asta.",
+      "verified_live": true
+    },
+    "ru": {
+      "app_name": "TripBee Pro: Планировщик путешествий",
+      "app_store_cta_label": "Скачайте TripBee Pro: Планировщик путешествий в App Store →",
+      "app_store_url": "https://apps.apple.com/ru/app/id6787754435?pt=118326163&ct=iag_data_ru&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Хорошее приложение для маршрутов превращает хаотичное путешествие в понятный день за днём план — рейсы, отели, активности, рестораны и транспорт — с понятными иконками, чтобы вы могли быстро ориентироваться — TripBee Pro: Планировщик путешествий создан именно для этого.",
+      "verified_live": true
+    },
+    "sk": {
+      "app_name": "TripBee Pro: Plánovač ciest",
+      "app_store_cta_label": "Stiahnite si TripBee Pro: Plánovač ciest v App Store →",
+      "app_store_url": "https://apps.apple.com/sk/app/id6787754435?pt=118326163&ct=iag_data_sk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Dobrá aplikácia na itinerár premení chaotickú cestu na jasný denný harmonogram — lety, hotely, aktivity, reštaurácie a doprava — s jasnými ikonami typov, aby ste svoj deň videli na prvý pohľad — TripBee Pro: Plánovač ciest je na to stavaný.",
+      "verified_live": true
+    },
+    "sl-SI": {
+      "app_name": "TripBee Pro: načrtovalec potovanja",
+      "app_store_cta_label": "Prenesite TripBee Pro: načrtovalec potovanja iz App Store →",
+      "app_store_url": "https://apps.apple.com/si/app/id6787754435?pt=118326163&ct=iag_data_sl_si&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Dobra aplikacija za itinerar spremeni zmedeno potovanje v jasen dnevni časovni načrt — leti, hoteli, aktivnosti, restavracije in prevoz — z jasnimi ikonami tipov, da lahko na hitro preberete svoj dan — TripBee Pro: načrtovalec potovanja je ustvarjen za to.",
+      "verified_live": true
+    },
+    "sv": {
+      "app_name": "TripBee Pro: Resplanerare",
+      "app_store_cta_label": "Skaffa TripBee Pro: Resplanerare i App Store →",
+      "app_store_url": "https://apps.apple.com/se/app/id6787754435?pt=118326163&ct=iag_data_sv&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "En bra reseplanerare förvandlar en rörig resa till en tydlig dag-för-dag-tidslinje – flyg, hotell, aktiviteter, restauranger och transport – med tydliga typikoner så du kan läsa din dag på en blick – TripBee Pro: Resplanerare är byggd för detta.",
+      "verified_live": true
+    },
+    "ta-IN": {
+      "app_name": "TripBee Pro: பயண திட்டமிடுபவர்",
+      "app_store_cta_label": "App Store இல் TripBee Pro: பயண திட்டமிடுபவரைப் பெறுங்கள் →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_ta_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ஒரு நல்ல பயண திட்ட செயலி குழப்பமான பயணத்தை தெளிவான நாள் தோறும் காலவரிசையாக மாற்றுகிறது — விமானங்கள், ஹோட்டல்கள், செயல்பாடுகள், உணவகங்கள் மற்றும் போக்குவரத்து — தெளிவான வகை ஐகான்களுடன் உங்கள் நாளை ஒரே பார்வையில் வாசிக்க — TripBee Pro: பயண திட்டமிடுபவர் இதற்காக உருவாக்கப்பட்டது.",
+      "verified_live": true
+    },
+    "te-IN": {
+      "app_name": "TripBee Pro: ట్రిప్ ప్లానర్",
+      "app_store_cta_label": "App Storeలో TripBee Pro: ట్రిప్ ప్లానర్ పొందండి →",
+      "app_store_url": "https://apps.apple.com/in/app/id6787754435?pt=118326163&ct=iag_data_te_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "మంచి ఇటికరరీ యాప్ గందరగోళమైన ప్రయాణాన్ని స్పష్టమైన రోజువారీ టైమ్‌లైన్‌గా మార్చుతుంది — ఫ్లైట్స్, హోటల్స్, కార్యకలాపాలు, రెస్టారెంట్లు మరియు రవాణా — స్పష్టమైన టైప్ ఐకాన్లతో మీరు మీ రోజును ఒక చూపులో చదవగలుగుతారు — TripBee Pro: ట్రిప్ ప్లానర్ దీనికోసం రూపొందించబడింది.",
+      "verified_live": true
+    },
+    "th": {
+      "app_name": "TripBee Pro: วางแผนการเดินทาง",
+      "app_store_cta_label": "ดาวน์โหลด TripBee Pro: Trip Planner ใน App Store →",
+      "app_store_url": "https://apps.apple.com/th/app/id6787754435?pt=118326163&ct=iag_data_th&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "แอปวางแผนเที่ยวที่ดีเปลี่ยนทริปที่ยุ่งเหยิงเป็นไทม์ไลน์รายวันที่ชัดเจน — เที่ยวบิน โรงแรม กิจกรรม ร้านอาหาร และการเดินทาง — พร้อมไอคอนประเภทที่ชัดเจนเพื่อให้คุณอ่านวันของคุณได้ทันที — TripBee Pro: Trip Planner ถูกสร้างมาเพื่อสิ่งนี้",
+      "verified_live": true
+    },
+    "tr": {
+      "app_name": "TripBee Pro: Seyahat Planlayıcı",
+      "app_store_cta_label": "TripBee Pro: Seyahat Planlayıcı’yı App Store’dan edinin →",
+      "app_store_url": "https://apps.apple.com/tr/app/id6787754435?pt=118326163&ct=iag_data_tr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "İyi bir güzergah uygulaması, karmaşık bir seyahati net günlük zaman çizelgesine dönüştürür — uçuşlar, oteller, aktiviteler, restoranlar ve ulaşım — tür simgeleriyle gününüzü bir bakışta okuyabilmeniz için — TripBee Pro: Seyahat Planlayıcı bu amaçla tasarlanmıştır.",
+      "verified_live": true
+    },
+    "uk": {
+      "app_name": "TripBee Pro: планувальник подорожей",
+      "app_store_cta_label": "Отримайте TripBee Pro: планувальник подорожей в App Store →",
+      "app_store_url": "https://apps.apple.com/ua/app/id6787754435?pt=118326163&ct=iag_data_uk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Хороший додаток для маршруту перетворює хаотичну подорож на чіткий розклад по днях — рейси, готелі, активності, ресторани та транспорт — із чіткими іконками типів, щоб ви могли швидко переглянути свій день — TripBee Pro: планувальник подорожей створений саме для цього.",
+      "verified_live": true
+    },
+    "ur-PK": {
+      "app_name": "TripBee Pro: سفر کا منصوبہ ساز",
+      "app_store_cta_label": "App Store سے TripBee Pro: Trip Planner حاصل کریں →",
+      "app_store_url": "https://apps.apple.com/pk/app/id6787754435?pt=118326163&ct=iag_data_ur_pk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "ایک اچھی آئیٹینری ایپ ایک الجھی ہوئی سفر کو واضح روزانہ کی ٹائم لائن میں بدل دیتی ہے — پروازیں، ہوٹلز، سرگرمیاں، ریستوران اور ٹرانسپورٹ — واضح قسم کے آئیکنز کے ساتھ تاکہ آپ ایک نظر میں اپنا دن پڑھ سکیں — TripBee Pro: Trip Planner اسی کے لیے بنایا گیا ہے۔",
+      "verified_live": true
+    },
+    "vi": {
+      "app_name": "TripBee Pro: Trình lập kế hoạch chuyến đi",
+      "app_store_cta_label": "Tải TripBee Pro: Trình lập kế hoạch chuyến đi trên App Store →",
+      "app_store_url": "https://apps.apple.com/vn/app/id6787754435?pt=118326163&ct=iag_data_vi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "Một ứng dụng lịch trình tốt biến chuyến đi lộn xộn thành dòng thời gian ngày rõ ràng — chuyến bay, khách sạn, hoạt động, nhà hàng và phương tiện — với biểu tượng loại rõ ràng để bạn có thể xem ngày của mình ngay lập tức — TripBee Pro: Trình lập kế hoạch chuyến đi được thiết kế cho điều này.",
+      "verified_live": true
+    },
+    "zh-Hans": {
+      "app_name": "TripBee Pro：旅行规划师",
+      "app_store_cta_label": "在App Store获取TripBee Pro：旅行规划师 →",
+      "app_store_url": "https://apps.apple.com/cn/app/id6787754435?pt=118326163&ct=iag_data_zh_hans&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "一款好行程应用能将混乱的旅行变成清晰的逐日时间线——航班、酒店、活动、餐厅和交通，配有清晰图标，方便一目了然——TripBee Pro：旅行规划师正是为此设计。",
+      "verified_live": true
+    },
+    "zh-Hant": {
+      "app_name": "TripBee Pro：旅遊規劃師",
+      "app_store_cta_label": "在 App Store 取得 TripBee Pro：旅遊規劃師 →",
+      "app_store_url": "https://apps.apple.com/tw/app/id6787754435?pt=118326163&ct=iag_data_zh_hant&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6787754435",
+      "decision_context": "優秀的行程App能將混亂旅程整理成清晰逐日時間軸——航班、飯店、活動、餐廳與交通——並以清晰類型圖示讓你一目了然每日行程——TripBee Pro：旅遊規劃師專為此打造。",
+      "verified_live": true
+    }
+  },
+  "contract": {
+    "catalog_digest": "73e695215f5c1f227535719048669c08733c71a1a22883e73aea0831f34fb764",
+    "config_digest": "ed2194ced7aeaa2ad2999d4335c2f5f19e8bf008a3f0cddcd2fe325107557e8e",
+    "digest": "58f2bdf84b6fd6a2825b88c6898546c1acb5bb486207528214c49b7d1b923395",
+    "schema": "support-surface-contract/v1"
+  },
+  "dynamic_app_link_exempt": [],
+  "exact_replacements": [
+    {
+      "new": "One-time purchase",
+      "old": "US$5.99 one-time purchase",
+      "path": "index.html"
+    },
+    {
+      "new": "a paid App Store download with a one-time purchase",
+      "old": "a US$5.99 paid download and one-time purchase",
+      "path": "index.html"
+    },
+    {
+      "new": "一次性買斷",
+      "old": "US$5.99 一次性買斷",
+      "path": "index.html"
+    },
+    {
+      "new": "What does the one-time purchase include?",
+      "old": "What does the US$5.99 purchase include?",
+      "path": "support.html"
+    },
+    {
+      "new": "a paid download with a one-time purchase",
+      "old": "a paid download priced at US$5.99, with a one-time purchase",
+      "path": "privacy.html"
+    }
+  ],
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk bokmål",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "managed_cells": {
+    "index": [
+      "en-AU",
+      "en-CA",
+      "en-GB"
+    ],
+    "privacy": [
+      "en-AU",
+      "en-CA",
+      "en-GB"
+    ],
+    "support": [
+      "en-AU",
+      "en-CA",
+      "en-GB"
+    ]
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "paid_cleanup_questions": {
+    "ar-SA": [
+      "ما الذي يمكنني استخدامه مجانًا؟",
+      "إذا غيّرت الـ iPhone، هل تبقى عملية الشراء؟"
+    ],
+    "bn-BD": [
+      "বিনামূল্যে কী কী ব্যবহার করা যায়?",
+      "iPhone বদলালে কেনাকাটা কি থেকে যায়?"
+    ],
+    "ca": [
+      "Què puc fer servir gratuïtament?",
+      "Si canvio d'iPhone, mantinc la compra?"
+    ],
+    "cs": [
+      "Co můžu používat zdarma?",
+      "Zůstane mi nákup, když vyměním iPhone?"
+    ],
+    "da": [
+      "Hvad kan jeg bruge gratis?",
+      "Beholder jeg mit køb, hvis jeg skifter iPhone?"
+    ],
+    "de-DE": [
+      "Wie viel kann ich kostenlos nutzen?",
+      "Bleibt mein Kauf beim Gerätewechsel erhalten?"
+    ],
+    "el": [
+      "Τι μπορώ να χρησιμοποιήσω δωρεάν;",
+      "Αν αλλάξω iPhone, κρατάω την αγορά μου;"
+    ],
+    "en-AU": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-CA": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-GB": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-US": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "es-ES": [
+      "¿Hasta dónde puedo usarla gratis?",
+      "¿Se mantiene mi compra al cambiar de dispositivo?"
+    ],
+    "es-MX": [
+      "¿Qué puedo usar gratis?",
+      "Si cambio de iPhone, ¿conservo mi compra?"
+    ],
+    "fi": [
+      "Mitä voin käyttää ilmaiseksi?",
+      "Säilyykö ostoni, jos vaihdan iPhonea?"
+    ],
+    "fr-CA": [
+      "Qu'est-ce que je peux utiliser gratuitement ?",
+      "Si je change d'iPhone, est-ce que je garde mon achat ?"
+    ],
+    "fr-FR": [
+      "Que puis-je faire gratuitement ?",
+      "Mon achat est-il conservé si je change d'appareil ?"
+    ],
+    "gu-IN": [
+      "મફતમાં શું વાપરી શકાય?",
+      "iPhone બદલું તો ખરીદી રહે છે?"
+    ],
+    "he": [
+      "מה אפשר להשתמש בחינם?",
+      "אם אחליף iPhone, הרכישה נשמרת?"
+    ],
+    "hi": [
+      "मुफ़्त में क्या-क्या इस्तेमाल कर सकता हूँ?",
+      "iPhone बदलने पर क्या मेरी ख़रीद बनी रहेगी?"
+    ],
+    "hr": [
+      "Što mogu koristiti besplatno?",
+      "Ostaje li mi kupnja ako promijenim iPhone?"
+    ],
+    "hu": [
+      "Mit használhatok ingyen?",
+      "Megmarad a vásárlásom, ha iPhone-t váltok?"
+    ],
+    "id": [
+      "Apa yang bisa saya pakai gratis?",
+      "Kalau ganti iPhone, apakah pembelian saya tetap berlaku?"
+    ],
+    "it": [
+      "Che cosa posso usare gratuitamente?",
+      "Se cambio iPhone, l'acquisto resta valido?"
+    ],
+    "ja": [
+      "無料でどこまで使えますか?",
+      "機種変更しても購入は引き継げますか?"
+    ],
+    "kn-IN": [
+      "ಉಚಿತವಾಗಿ ಏನನ್ನು ಬಳಸಬಹುದು?",
+      "iPhone ಬದಲಾಯಿಸಿದರೆ ನನ್ನ ಖರೀದಿ ಉಳಿಯುತ್ತದೆಯೇ?"
+    ],
+    "ko": [
+      "무료로 어디까지 쓸 수 있나요?",
+      "기기를 바꿔도 구매 내역이 유지되나요?"
+    ],
+    "ml-IN": [
+      "സൗജന്യമായി എന്തൊക്കെ ഉപയോഗിക്കാം?",
+      "iPhone മാറ്റിയാൽ ഞാൻ വാങ്ങിയത് നിലനിൽക്കുമോ?"
+    ],
+    "mr-IN": [
+      "मोफत काय वापरता येते?",
+      "iPhone बदलल्यावर खरेदी टिकते का?"
+    ],
+    "ms": [
+      "Apa yang boleh saya guna secara percuma?",
+      "Jika saya tukar iPhone, adakah pembelian saya kekal?"
+    ],
+    "nl-NL": [
+      "Wat kan ik gratis gebruiken?",
+      "Blijft mijn aankoop geldig op een nieuwe iPhone?"
+    ],
+    "no": [
+      "Hva kan jeg bruke gratis?",
+      "Beholder jeg kjøpet hvis jeg bytter iPhone?"
+    ],
+    "or-IN": [
+      "କିଣିବା ପୂର୍ବରୁ କ’ଣ ବ୍ୟବହାର କରିପାରିବି?",
+      "ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ କିଣାକୁ କିପରି ପୁନରୁଦ୍ଧାର କରିବି?"
+    ],
+    "pa-IN": [
+      "ਮੁਫ਼ਤ ਵਿੱਚ ਕੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
+      "iPhone ਬਦਲਣ ਉੱਤੇ ਕੀ ਮੇਰੀ ਖ਼ਰੀਦ ਰਹਿੰਦੀ ਹੈ?"
+    ],
+    "pl": [
+      "Z czego mogę korzystać bezpłatnie?",
+      "Czy po zmianie iPhone'a zachowam zakup?"
+    ],
+    "pt-BR": [
+      "Até onde dá para usar de graça?",
+      "Minha compra continua valendo se eu trocar de aparelho?"
+    ],
+    "pt-PT": [
+      "O que posso usar gratuitamente?",
+      "Se mudar de iPhone, mantenho a compra?"
+    ],
+    "ro": [
+      "Ce pot folosi gratuit?",
+      "Dacă schimb iPhone-ul, îmi păstrez achiziția?"
+    ],
+    "ru": [
+      "Что доступно бесплатно?",
+      "Сохранится ли покупка при смене iPhone?"
+    ],
+    "sk": [
+      "Čo môžem používať zadarmo?",
+      "Zostane mi nákup, keď vymením iPhone?"
+    ],
+    "sl-SI": [
+      "Kaj lahko uporabljam brezplačno?",
+      "Ali mi nakup ostane, če zamenjam iPhone?"
+    ],
+    "sv": [
+      "Vad kan jag använda gratis?",
+      "Får jag behålla mitt köp om jag byter iPhone?"
+    ],
+    "ta-IN": [
+      "இலவசமாக எதைப் பயன்படுத்தலாம்?",
+      "iPhone ஐ மாற்றினால் நான் வாங்கியது இருக்குமா?"
+    ],
+    "te-IN": [
+      "ఉచితంగా ఏం వాడవచ్చు?",
+      "iPhone మార్చితే నా కొనుగోలు ఉంటుందా?"
+    ],
+    "th": [
+      "ใช้ฟรีได้แค่ไหน",
+      "ถ้าเปลี่ยน iPhone สิ่งที่ซื้อไว้ยังอยู่ไหม"
+    ],
+    "tr": [
+      "Ücretsiz olarak neleri kullanabilirim?",
+      "iPhone değiştirirsem satın alımım kalır mı?"
+    ],
+    "uk": [
+      "Що доступно безкоштовно?",
+      "Чи збережеться покупка після заміни iPhone?"
+    ],
+    "ur-PK": [
+      "مفت میں کیا کچھ استعمال کر سکتا ہوں؟",
+      "iPhone بدلنے پر کیا میری خریداری برقرار رہے گی؟"
+    ],
+    "vi": [
+      "Tôi được dùng miễn phí những gì?",
+      "Đổi iPhone thì tôi có giữ được khoản đã mua không?"
+    ],
+    "zh-Hans": [
+      "免费可以用到什么程度?",
+      "换手机后购买记录还在吗?"
+    ],
+    "zh-Hant": [
+      "免費可以用到什麼程度?",
+      "換手機後購買紀錄還在嗎?"
+    ]
+  },
+  "paid_privacy_overrides": {
+    "ar-SA": {
+      "new": "لا. لا توجد اشتراكات في {app}. الجزء المدفوع عملية شراء واحدة لا تتجدد.",
+      "old": "تتولى App Store من Apple (StoreKit) عمليات الشراء داخل التطبيق بالكامل. ونحن لا نستلم بيانات الدفع الخاصة بك ولا نخزّنها. وبحساب Apple نفسه يمكنك استعادة عملية الشراء على جهاز جديد."
+    },
+    "bn-BD": {
+      "new": "না। {app}-এ কোনো সাবস্ক্রিপশন নেই। যে অংশটুকু সশুল্ক, সেটি একবারের কেনাকাটা এবং নিজে থেকে নবায়ন হয় না।",
+      "old": "ইন-অ্যাপ কেনাকাটা সম্পূর্ণভাবে Apple-এর App Store (StoreKit) পরিচালনা করে। আপনার পেমেন্টের তথ্য আমরা পাই না, রাখিও না। একই Apple অ্যাকাউন্ট দিয়ে নতুন ডিভাইসে কেনা জিনিস পুনরুদ্ধার করা যায়।"
+    },
+    "cs": {
+      "new": "Ne. {app} žádné předplatné nemá. Placená část je jednorázový nákup, který se neobnovuje.",
+      "old": "Nákupy v aplikaci vyřizuje kompletně App Store Applu (StoreKit). Vaše platební údaje nedostáváme ani neukládáme. Se stejným účtem Apple obnovíte nákup i na novém zařízení."
+    },
+    "da": {
+      "new": "Nej. {app} har ingen abonnementer. Det betalte er et enkeltstående køb, der ikke fornyes.",
+      "old": "Køb i appen håndteres udelukkende af Apples App Store (StoreKit). Vi modtager og gemmer ingen betalingsoplysninger. Med den samme Apple-konto kan du gendanne dit køb på en ny enhed."
+    },
+    "de-DE": {
+      "new": "Nein. {app} hat kein Abo. Bezahlinhalte sind ein einmaliger Kauf, es gibt keine wiederkehrende Abbuchung.",
+      "old": "In-App-Käufe wickelt Apple vollständig über den App Store (StoreKit) ab. Wir erhalten und speichern keine Zahlungsdaten. Mit derselben Apple-Account lassen sich Käufe auf einem neuen Gerät wiederherstellen."
+    },
+    "el": {
+      "new": "Όχι. Το {app} δεν έχει συνδρομές. Το επί πληρωμή μέρος είναι μία εφάπαξ αγορά που δεν ανανεώνεται.",
+      "old": "Οι αγορές εντός της εφαρμογής διεκπεραιώνονται εξ ολοκλήρου από το App Store της Apple (StoreKit). Δεν λαμβάνουμε ούτε αποθηκεύουμε τα στοιχεία πληρωμής σας. Με τον ίδιο λογαριασμό Apple μπορείτε να επαναφέρετε την αγορά σε νέα συσκευή."
+    },
+    "es-ES": {
+      "new": "No. {app} no tiene suscripción. El contenido de pago es una compra única, sin cargos recurrentes.",
+      "old": "Las compras integradas las gestiona íntegramente Apple a través del App Store (StoreKit). No recibimos ni conservamos tus datos de pago. Con la misma cuenta de Apple puedes restaurar las compras en un dispositivo nuevo."
+    },
+    "es-MX": {
+      "new": "No. {app} no tiene suscripciones. La parte de pago es una compra única que no se renueva.",
+      "old": "Las compras dentro de la app las maneja por completo el App Store de Apple (StoreKit). No recibimos ni guardamos tus datos de pago. Con la misma cuenta de Apple puedes restaurar tu compra en un dispositivo nuevo."
+    },
+    "fi": {
+      "new": "Ei. Sovelluksessa {app} ei ole tilauksia. Maksullinen osa on kertaosto, joka ei uusiudu.",
+      "old": "Sovelluksen sisäiset ostot hoitaa kokonaan Applen App Store (StoreKit). Emme vastaanota emmekä säilytä maksutietojasi. Samalla Apple-tilillä voit palauttaa ostoksesi uuteen laitteeseen."
+    },
+    "gu-IN": {
+      "new": "ના. {app} માં કોઈ સબ્સ્ક્રિપ્શન નથી. જે ભાગ ચૂકવણીવાળો છે તે એક વખતની ખરીદી છે, જે આપોઆપ રિન્યુ થતી નથી.",
+      "old": "ઇન-ઍપ ખરીદી સંપૂર્ણપણે Apple નું App Store (StoreKit) સંભાળે છે. તમારી ચુકવણીની વિગત અમને મળતી નથી અને અમે તે રાખતા પણ નથી. એ જ Apple ખાતાથી નવા ઉપકરણ પર ખરીદી પુનઃસ્થાપિત કરી શકાય છે."
+    },
+    "he": {
+      "new": "לא. ל-{app} אין מנויים. החלק בתשלום הוא רכישה חד-פעמית שאינה מתחדשת.",
+      "old": "רכישות בתוך האפליקציה מטופלות במלואן על ידי App Store של Apple (StoreKit). איננו מקבלים ואיננו שומרים את פרטי התשלום שלכם. עם אותו חשבון Apple אפשר לשחזר את הרכישה במכשיר חדש."
+    },
+    "hi": {
+      "new": "नहीं। {app} में कोई सब्सक्रिप्शन नहीं है। जो हिस्सा सशुल्क है वह एक बार की ख़रीद है, जो अपने आप नवीनीकृत नहीं होती।",
+      "old": "इन-ऐप ख़रीदारी पूरी तरह Apple के App Store (StoreKit) द्वारा संभाली जाती है। आपकी भुगतान जानकारी न हमें मिलती है, न हम उसे रखते हैं। उसी Apple अकाउंट से आप नए डिवाइस पर ख़रीद पुनर्स्थापित कर सकते हैं।"
+    },
+    "hr": {
+      "new": "Nije. {app} nema pretplatu. Ono što se plaća jednokratna je kupnja koja se ne obnavlja.",
+      "old": "Kupnje unutar aplikacije u cijelosti obavlja Appleov App Store (StoreKit). Vaše podatke o plaćanju ne primamo niti pohranjujemo. S istim Apple računom kupnju možete vratiti na novom uređaju."
+    },
+    "hu": {
+      "new": "Nem. A(z) {app} alkalmazásban nincs előfizetés. A fizetős rész egyszeri vásárlás, amely nem újul meg.",
+      "old": "Az alkalmazáson belüli vásárlásokat teljes egészében az Apple App Store (StoreKit) kezeli. Fizetési adataidat nem kapjuk meg és nem tároljuk. Ugyanazzal az Apple-fiókkal új készüléken is visszaállíthatod a vásárlást."
+    },
+    "id": {
+      "new": "Bukan. {app} tidak punya langganan. Bagian berbayarnya adalah pembelian sekali bayar yang tidak diperpanjang otomatis.",
+      "old": "Pembelian dalam aplikasi sepenuhnya ditangani App Store milik Apple (StoreKit). Kami tidak menerima maupun menyimpan data pembayaran Anda. Dengan akun Apple yang sama, pembelian bisa dipulihkan di perangkat baru."
+    },
+    "ja": {
+      "new": "いいえ。{app} にサブスクリプションはありません。有料要素は買い切りで、継続課金は発生しません。",
+      "old": "アプリ内課金は Apple の App Store(StoreKit)がすべて処理します。当方がお支払い情報を受け取ったり保存したりすることはありません。同じ Apple アカウントであれば新しい端末で購入を復元できます。"
+    },
+    "kn-IN": {
+      "new": "ಅಲ್ಲ. {app} ನಲ್ಲಿ ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ. ಶುಲ್ಕದ ಭಾಗವು ಒಂದೇ ಬಾರಿಯ ಖರೀದಿ; ಅದು ತಾನಾಗಿಯೇ ನವೀಕರಣಗೊಳ್ಳುವುದಿಲ್ಲ.",
+      "old": "ಇನ್-ಆಪ್ ಖರೀದಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ Apple ನ App Store (StoreKit) ನಿರ್ವಹಿಸುತ್ತದೆ. ನಿಮ್ಮ ಪಾವತಿ ವಿವರಗಳು ನಮಗೆ ಸಿಗುವುದಿಲ್ಲ, ನಾವು ಅವನ್ನು ಸಂಗ್ರಹಿಸುವುದೂ ಇಲ್ಲ. ಅದೇ Apple ಖಾತೆಯಿಂದ ಹೊಸ ಸಾಧನದಲ್ಲಿ ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಬಹುದು."
+    },
+    "ko": {
+      "new": "아닙니다. {app}에는 구독이 없습니다. 유료 항목은 한 번만 결제하는 방식이며 정기 결제가 발생하지 않습니다.",
+      "old": "인앱 구매는 Apple의 App Store(StoreKit)가 전부 처리합니다. 저희는 결제 정보를 받거나 보관하지 않습니다. 같은 Apple 계정이라면 새 기기에서 구매를 복원할 수 있습니다."
+    },
+    "ml-IN": {
+      "new": "അല്ല. {app}-ൽ സബ്സ്ക്രിപ്ഷൻ ഇല്ല. പണം നൽകേണ്ട ഭാഗം ഒറ്റത്തവണ വാങ്ങലാണ്; അത് സ്വയം പുതുക്കപ്പെടുന്നില്ല.",
+      "old": "ഇൻ-ആപ്പ് വാങ്ങലുകൾ പൂർണമായും Apple-ന്റെ App Store (StoreKit) കൈകാര്യം ചെയ്യുന്നു. നിങ്ങളുടെ പണമിടപാട് വിവരങ്ങൾ ഞങ്ങൾക്ക് ലഭിക്കുന്നില്ല, ഞങ്ങൾ അവ സൂക്ഷിക്കുന്നുമില്ല. അതേ Apple അക്കൗണ്ടിൽ പുതിയ ഉപകരണത്തിൽ വാങ്ങൽ പുനഃസ്ഥാപിക്കാം."
+    },
+    "mr-IN": {
+      "new": "नाही. {app} मध्ये वर्गणी नाही. जो भाग सशुल्क आहे तो एकदाच करायची खरेदी आहे, ती आपोआप नूतनीकरण होत नाही.",
+      "old": "इन-अॅप खरेदी संपूर्णपणे Apple चे App Store (StoreKit) हाताळते. तुमची देयक माहिती आम्हाला मिळत नाही आणि आम्ही ती साठवतही नाही. त्याच Apple खात्याने नव्या उपकरणावर खरेदी पुनर्संचयित करता येते."
+    },
+    "ms": {
+      "new": "Tidak. {app} tiada langganan. Bahagian berbayarnya ialah pembelian sekali sahaja yang tidak diperbaharui.",
+      "old": "Pembelian dalam apl dikendalikan sepenuhnya oleh App Store Apple (StoreKit). Kami tidak menerima dan tidak menyimpan maklumat pembayaran anda. Dengan akaun Apple yang sama, pembelian boleh dipulihkan pada peranti baharu."
+    },
+    "nl-NL": {
+      "new": "Nee. {app} heeft geen abonnementen. Wat je betaalt, is een eenmalige aankoop die niet doorloopt.",
+      "old": "In-app aankopen worden volledig door de App Store van Apple (StoreKit) afgehandeld. Wij ontvangen of bewaren geen betaalgegevens. Met hetzelfde Apple-account herstel je je aankoop op een nieuw toestel."
+    },
+    "no": {
+      "new": "Nei. {app} har ingen abonnementer. Det som koster, er et engangskjøp som ikke fornyes.",
+      "old": "Kjøp i appen håndteres i sin helhet av Apples App Store (StoreKit). Vi mottar og lagrer ingen betalingsopplysninger. Med den samme Apple-kontoen kan du gjenopprette kjøpet på en ny enhet."
+    },
+    "pa-IN": {
+      "new": "ਨਹੀਂ। {app} ਵਿੱਚ ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ। ਜਿਹੜਾ ਹਿੱਸਾ ਅਦਾਇਗੀ ਵਾਲਾ ਹੈ ਉਹ ਇੱਕ ਵਾਰ ਦੀ ਖ਼ਰੀਦ ਹੈ, ਜੋ ਆਪਣੇ ਆਪ ਨਵੀਂ ਨਹੀਂ ਹੁੰਦੀ।",
+      "old": "ਇਨ-ਐਪ ਖ਼ਰੀਦਾਂ ਪੂਰੀ ਤਰ੍ਹਾਂ Apple ਦਾ App Store (StoreKit) ਸੰਭਾਲਦਾ ਹੈ। ਤੁਹਾਡੀ ਅਦਾਇਗੀ ਦੀ ਜਾਣਕਾਰੀ ਨਾ ਸਾਨੂੰ ਮਿਲਦੀ ਹੈ ਨਾ ਅਸੀਂ ਸਾਂਭਦੇ ਹਾਂ। ਉਸੇ Apple ਖਾਤੇ ਨਾਲ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਖ਼ਰੀਦ ਬਹਾਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"
+    },
+    "pl": {
+      "new": "Nie. {app} nie ma subskrypcji. Płatna część to jednorazowy zakup, który się nie odnawia.",
+      "old": "Zakupy w aplikacji obsługuje w całości App Store firmy Apple (StoreKit). Nie otrzymujemy ani nie przechowujemy Twoich danych płatniczych. Na tym samym koncie Apple możesz przywrócić zakup na nowym urządzeniu."
+    },
+    "pt-BR": {
+      "new": "Não. O {app} não tem assinatura. O conteúdo pago é uma compra única, sem cobrança recorrente.",
+      "old": "As compras dentro do app são processadas inteiramente pela Apple via App Store (StoreKit). Não recebemos nem guardamos seus dados de pagamento. Com a mesma conta Apple é possível restaurar compras em um aparelho novo."
+    },
+    "pt-PT": {
+      "new": "Não. A {app} não tem subscrições. A parte paga é uma compra única que não se renova.",
+      "old": "As compras dentro da aplicação são tratadas integralmente pela App Store da Apple (StoreKit). Não recebemos nem guardamos os seus dados de pagamento. Com o mesmo início de sessão Apple pode restaurar a compra num dispositivo novo."
+    },
+    "ro": {
+      "new": "Nu. {app} nu are abonamente. Partea contra cost este o achiziție unică ce nu se reînnoiește.",
+      "old": "Cumpărăturile din aplicație sunt gestionate integral de App Store de la Apple (StoreKit). Nu primim și nu stocăm datele tale de plată. Cu același cont Apple poți restaura achiziția pe un dispozitiv nou."
+    },
+    "ru": {
+      "new": "Нет. В {app} нет подписок. Платная часть — разовая покупка, которая не продлевается.",
+      "old": "Встроенные покупки полностью обрабатывает App Store компании Apple (StoreKit). Мы не получаем и не храним ваши платёжные данные. С тем же аккаунтом Apple покупку можно восстановить на новом устройстве."
+    },
+    "sk": {
+      "new": "Nie. {app} nemá žiadne predplatné. Platená časť je jednorazový nákup, ktorý sa neobnovuje.",
+      "old": "Nákupy v aplikácii vybavuje celé App Store od Apple (StoreKit). Vaše platobné údaje nedostávame ani neukladáme. S rovnakým účtom Apple obnovíte nákup aj na novom zariadení."
+    },
+    "sl-SI": {
+      "new": "Ne. {app} nima naročnin. Plačljivi del je enkraten nakup, ki se ne obnavlja.",
+      "old": "Nakupe v aplikaciji v celoti izvede Applov App Store (StoreKit). Vaših plačilnih podatkov ne prejmemo in ne shranjujemo. Z istim računom Apple lahko nakup obnovite na novi napravi."
+    },
+    "sv": {
+      "new": "Nej. {app} har inga prenumerationer. Det som kostar är ett engångsköp som inte förnyas.",
+      "old": "Köp i appen hanteras helt av Apples App Store (StoreKit). Vi tar inte emot och lagrar inga betaluppgifter. Med samma Apple-konto kan du återställa ditt köp på en ny enhet."
+    },
+    "ta-IN": {
+      "new": "இல்லை. {app} இல் சந்தா எதுவும் இல்லை. கட்டணப் பகுதி ஒருமுறை மட்டும் செய்யும் வாங்குதல்; அது தானாகப் புதுப்பிக்கப்படாது.",
+      "old": "இன்-ஆப் வாங்குதல்களை முழுமையாக Apple இன் App Store (StoreKit) கையாளுகிறது. உங்கள் கட்டணத் தகவல் எங்களுக்கு வருவதுமில்லை, நாங்கள் அதைச் சேமிப்பதுமில்லை. அதே Apple கணக்கில் புதிய சாதனத்தில் வாங்கியதை மீட்டமைக்கலாம்."
+    },
+    "te-IN": {
+      "new": "కాదు. {app} లో సబ్‌స్క్రిప్షన్ లేదు. చెల్లింపు ఉన్న భాగం ఒకసారి చేసే కొనుగోలు; అది దానంతట అదే పునరుద్ధరించబడదు.",
+      "old": "ఇన్-యాప్ కొనుగోళ్లను పూర్తిగా Apple యొక్క App Store (StoreKit) నిర్వహిస్తుంది. మీ చెల్లింపు వివరాలు మాకు అందవు, మేము వాటిని నిల్వ చేయము. అదే Apple ఖాతాతో కొత్త పరికరంలో కొనుగోలును పునరుద్ధరించవచ్చు."
+    },
+    "th": {
+      "new": "ไม่ใช่ {app} ไม่มีการสมัครสมาชิก ส่วนที่ต้องจ่ายเป็นการซื้อครั้งเดียวที่ไม่ต่ออายุอัตโนมัติ",
+      "old": "การซื้อในแอปดำเนินการโดย App Store ของ Apple (StoreKit) ทั้งหมด เราไม่ได้รับและไม่เก็บข้อมูลการชำระเงินของคุณ ด้วยบัญชี Apple เดิม คุณกู้คืนสิ่งที่ซื้อไว้บนเครื่องใหม่ได้"
+    },
+    "uk": {
+      "new": "Ні. У {app} немає підписок. Платна частина — разова покупка, яка не поновлюється.",
+      "old": "Вбудовані покупки повністю обробляє App Store компанії Apple (StoreKit). Ми не отримуємо і не зберігаємо ваші платіжні дані. З тим самим обліковим записом Apple покупку можна відновити на новому пристрої."
+    },
+    "ur-PK": {
+      "new": "نہیں۔ {app} میں کوئی سبسکرپشن نہیں۔ ادائیگی والا حصہ ایک بار کی خریداری ہے جو خود بخود تجدید نہیں ہوتی۔",
+      "old": "اِن ایپ خریداریاں مکمل طور پر Apple کا App Store (StoreKit) سنبھالتا ہے۔ ہمیں آپ کی ادائیگی کی تفصیلات نہ ملتی ہیں نہ ہم انہیں محفوظ کرتے ہیں۔ اُسی Apple اکاؤنٹ سے آپ نئے ڈیوائس پر خریداری بحال کر سکتے ہیں۔"
+    },
+    "vi": {
+      "new": "Không. {app} không có thuê bao. Phần trả phí là một lần mua duy nhất, không tự gia hạn.",
+      "old": "Giao dịch mua trong ứng dụng do App Store của Apple (StoreKit) xử lý toàn bộ. Chúng tôi không nhận và không lưu thông tin thanh toán của bạn. Với cùng tài khoản Apple, bạn khôi phục được khoản đã mua trên máy mới."
+    },
+    "zh-Hans": {
+      "new": "不是。{app} 没有订阅;付费项目是一次性购买,不会定期扣费。",
+      "old": "App 内购买完全由 Apple 通过 App Store(StoreKit)处理。我们不会获得或保存你的支付信息。你可以用同一个 Apple 账户在新设备上恢复购买。"
+    },
+    "zh-Hant": {
+      "new": "不是。{app} 沒有訂閱;付費項目是一次性購買,不會定期扣款。",
+      "old": "App 內購買完全由 Apple 透過 App Store(StoreKit)處理。我們不會取得或保存你的付款資料。你可以用同一個 Apple 帳號在新裝置上恢復購買。"
+    }
+  },
+  "privacy_authority": {
+    "digest": "5a2b14f73743644ba8587ac688e1cfd36fa4f79bc86b1eab5f5656b9339d0dfa",
+    "sources": [
+      {
+        "path": "privacy.html",
+        "role": "site-owned English privacy policy",
+        "sha256": "ff9c3e0426a559c070aa955e649f359bd5d78cadd6a8a6f1accf5b989717cfcd"
+      }
+    ],
+    "status": "verified",
+    "updated": "2026-08-29"
+  },
+  "privacy_locales": {
+    "en-AU": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "Sharing or export happens only when you start it and goes to the destination you choose through iOS. The developer does not receive a copy.",
+          "heading": "Sharing and exports",
+          "topic": "share"
+        },
+        {
+          "body": "Reminders you enable are scheduled locally by iOS. Their content is not sent to the developer or an advertising service.",
+          "heading": "Notifications",
+          "topic": "notify"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-CA": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "Sharing or export happens only when you start it and goes to the destination you choose through iOS. The developer does not receive a copy.",
+          "heading": "Sharing and exports",
+          "topic": "share"
+        },
+        {
+          "body": "Reminders you enable are scheduled locally by iOS. Their content is not sent to the developer or an advertising service.",
+          "heading": "Notifications",
+          "topic": "notify"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-GB": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "Sharing or export happens only when you start it and goes to the destination you choose through iOS. The developer does not receive a copy.",
+          "heading": "Sharing and exports",
+          "topic": "share"
+        },
+        {
+          "body": "Reminders you enable are scheduled locally by iOS. Their content is not sent to the developer or an advertising service.",
+          "heading": "Notifications",
+          "topic": "notify"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    }
+  },
+  "privacy_topics": [
+    "collect",
+    "icloud",
+    "share",
+    "notify",
+    "purchase",
+    "third",
+    "choice",
+    "change",
+    "contact"
+  ],
+  "required_surfaces": [
+    "index",
+    "support",
+    "privacy"
+  ],
+  "schema": "support-surface-source/v1",
+  "site_key": "tripbee-support",
+  "source_digest": "03c8a8d8aa6bd92c7a87b9a496a842312ccedb6cfb90c8c4148438c6d71e9f9c",
+  "ui_locales": {
+    "ar-SA": {
+      "app_store_label": "عرض في App Store",
+      "language_label": "اللغة",
+      "nav_home": "الرئيسية",
+      "nav_privacy": "الخصوصية",
+      "nav_support": "الدعم"
+    },
+    "bn-BD": {
+      "app_store_label": "App Store-এ দেখুন",
+      "language_label": "ভাষা",
+      "nav_home": "হোম",
+      "nav_privacy": "গোপনীয়তা",
+      "nav_support": "সহায়তা"
+    },
+    "ca": {
+      "app_store_label": "Veure a l'App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inici",
+      "nav_privacy": "Privadesa",
+      "nav_support": "Assistència"
+    },
+    "cs": {
+      "app_store_label": "Zobrazit v App Storu",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Soukromí",
+      "nav_support": "Podpora"
+    },
+    "da": {
+      "app_store_label": "Se i App Store",
+      "language_label": "Sprog",
+      "nav_home": "Forside",
+      "nav_privacy": "Privatliv",
+      "nav_support": "Support"
+    },
+    "de-DE": {
+      "app_store_label": "Im App Store ansehen",
+      "language_label": "Sprache",
+      "nav_home": "Start",
+      "nav_privacy": "Datenschutz",
+      "nav_support": "Support"
+    },
+    "el": {
+      "app_store_label": "Προβολή στο App Store",
+      "language_label": "Γλώσσα",
+      "nav_home": "Αρχική",
+      "nav_privacy": "Απόρρητο",
+      "nav_support": "Υποστήριξη"
+    },
+    "en-AU": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-CA": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-GB": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-US": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Center",
+      "support_heading": "Support Center",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Center",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "es-ES": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "es-MX": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "fi": {
+      "app_store_label": "Katso App Storessa",
+      "language_label": "Kieli",
+      "nav_home": "Etusivu",
+      "nav_privacy": "Tietosuoja",
+      "nav_support": "Tuki"
+    },
+    "fr-CA": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "fr-FR": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "gu-IN": {
+      "app_store_label": "App Store પર જુઓ",
+      "language_label": "ભાષા",
+      "nav_home": "હોમ",
+      "nav_privacy": "ગોપનીયતા",
+      "nav_support": "સહાય"
+    },
+    "he": {
+      "app_store_label": "הצג ב-App Store",
+      "language_label": "שפה",
+      "nav_home": "דף הבית",
+      "nav_privacy": "פרטיות",
+      "nav_support": "תמיכה"
+    },
+    "hi": {
+      "app_store_label": "App Store में देखें",
+      "language_label": "भाषा",
+      "nav_home": "होम",
+      "nav_privacy": "निजता",
+      "nav_support": "सहायता"
+    },
+    "hr": {
+      "app_store_label": "Prikaži u App Storeu",
+      "language_label": "Jezik",
+      "nav_home": "Početna",
+      "nav_privacy": "Privatnost",
+      "nav_support": "Podrška"
+    },
+    "hu": {
+      "app_store_label": "Megtekintés az App Store-ban",
+      "language_label": "Nyelv",
+      "nav_home": "Kezdőlap",
+      "nav_privacy": "Adatvédelem",
+      "nav_support": "Támogatás"
+    },
+    "id": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Beranda",
+      "nav_privacy": "Privasi",
+      "nav_support": "Dukungan"
+    },
+    "it": {
+      "app_store_label": "Vedi su App Store",
+      "language_label": "Lingua",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Assistenza"
+    },
+    "ja": {
+      "app_store_label": "App Storeで見る",
+      "language_label": "言語",
+      "nav_home": "ホーム",
+      "nav_privacy": "プライバシー",
+      "nav_support": "サポート"
+    },
+    "kn-IN": {
+      "app_store_label": "App Store ನಲ್ಲಿ ನೋಡಿ",
+      "language_label": "ಭಾಷೆ",
+      "nav_home": "ಮುಖಪುಟ",
+      "nav_privacy": "ಗೌಪ್ಯತೆ",
+      "nav_support": "ನೆರವು"
+    },
+    "ko": {
+      "app_store_label": "App Store에서 보기",
+      "language_label": "언어",
+      "nav_home": "홈",
+      "nav_privacy": "개인정보 처리방침",
+      "nav_support": "지원"
+    },
+    "ml-IN": {
+      "app_store_label": "App Store-ൽ കാണുക",
+      "language_label": "ഭാഷ",
+      "nav_home": "ഹോം",
+      "nav_privacy": "സ്വകാര്യത",
+      "nav_support": "പിന്തുണ"
+    },
+    "mr-IN": {
+      "app_store_label": "App Store वर पाहा",
+      "language_label": "भाषा",
+      "nav_home": "मुख्यपृष्ठ",
+      "nav_privacy": "गोपनीयता",
+      "nav_support": "मदत"
+    },
+    "ms": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Laman utama",
+      "nav_privacy": "Privasi",
+      "nav_support": "Sokongan"
+    },
+    "nl-NL": {
+      "app_store_label": "Bekijk in de App Store",
+      "language_label": "Taal",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support"
+    },
+    "no": {
+      "app_store_label": "Vis i App Store",
+      "language_label": "Språk",
+      "nav_home": "Hjem",
+      "nav_privacy": "Personvern",
+      "nav_support": "Kundestøtte"
+    },
+    "or-IN": {
+      "app_store_heading": "App Store",
+      "app_store_label": "App Storeରେ ଦେଖନ୍ତୁ",
+      "app_store_note": "ତଳର ଲିଙ୍କ ଏହି App ର ଯାଞ୍ଚିତ App Store ପୃଷ୍ଠା ଖୋଲେ।",
+      "contact_body": "{app} ବିଷୟରେ ସହାୟତା ପାଇଁ ଇମେଲ୍ କରନ୍ତୁ:",
+      "contact_heading": "ସହାୟତା ସହ ଯୋଗାଯୋଗ",
+      "index_eyebrow": "ସରକାରୀ ସହାୟତା ସାଇଟ୍",
+      "index_title": "{app} — ସରକାରୀ ସହାୟତା",
+      "language_label": "ଭାଷା",
+      "nav_home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+      "nav_privacy": "ଗୋପନୀୟତା",
+      "nav_support": "ସହାୟତା",
+      "parents_heading": "ଅଭିଭାବକ ଓ ଦେଖଭାଳକାରୀଙ୍କ ପାଇଁ",
+      "parents_note": "",
+      "privacy_heading": "ଗୋପନୀୟତା",
+      "privacy_link": "ଗୋପନୀୟତା ନୀତି ପଢ଼ନ୍ତୁ",
+      "purchase_heading": "କିଣା ମଡେଲ୍",
+      "purchase_label": "ଏହା ଥରେ ଟଙ୍କା ଦେଇ App Storeରୁ ଡାଉନଲୋଡ୍ କରାଯାଉଥିବା App; କୌଣସି ସଦସ୍ୟତା କିମ୍ବା App ଭିତର କିଣା ନାହିଁ।",
+      "steps": [
+        "{app} କୁ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ।",
+        "ଆପଣଙ୍କ iPhone କିମ୍ବା iPad ପୁନରାରମ୍ଭ କରନ୍ତୁ।",
+        "App Store ଖୋଲି {app} ପାଇଁ ଉପଲବ୍ଧ ଅଦ୍ୟତନ ଇନ୍‌ଷ୍ଟଲ୍ କରନ୍ତୁ।",
+        "ସମସ୍ୟା ରହିଲେ ଡିଭାଇସ୍ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି ଘଟାଇବା ପଦକ୍ଷେପ ସହ ଇମେଲ୍ କରନ୍ତୁ।"
+      ],
+      "steps_heading": "ପ୍ରଥମେ ଏହି ପଦକ୍ଷେପ ଚେଷ୍ଟା କରନ୍ତୁ",
+      "support_eyebrow": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_heading": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_intro": "{app} ପାଇଁ ସମସ୍ୟା ସମାଧାନ ପଦକ୍ଷେପ ଏବଂ ସିଧାସଳଖ ସାର୍ବଜନୀନ ସହାୟତା ଯୋଗାଯୋଗ।",
+      "support_link": "ସହାୟତା ଓ ସମସ୍ୟା ସମାଧାନ ଖୋଲନ୍ତୁ",
+      "support_title": "{app} — ସହାୟତା କେନ୍ଦ୍ର",
+      "verified_body": "ଏହି ପୃଷ୍ଠାରେ {app} ପାଇଁ ସରକାରୀ ସହାୟତା ରାସ୍ତା, ଗୋପନୀୟତା ସୂଚନା, କିଣା ମଡେଲ୍ ଏବଂ ଯାଞ୍ଚିତ App Store ଲିଙ୍କ ଏକ ସ୍ଥାନରେ ମିଳେ।",
+      "verified_heading": "ଯାଞ୍ଚିତ ପ୍ରଥମ-ପକ୍ଷ ସୂଚନା"
+    },
+    "pa-IN": {
+      "app_store_label": "App Store ਵਿੱਚ ਦੇਖੋ",
+      "language_label": "ਭਾਸ਼ਾ",
+      "nav_home": "ਮੁੱਖ ਪੰਨਾ",
+      "nav_privacy": "ਨਿੱਜਤਾ",
+      "nav_support": "ਸਹਾਇਤਾ"
+    },
+    "pl": {
+      "app_store_label": "Zobacz w App Store",
+      "language_label": "Język",
+      "nav_home": "Start",
+      "nav_privacy": "Prywatność",
+      "nav_support": "Pomoc techniczna"
+    },
+    "pt-BR": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Suporte"
+    },
+    "pt-PT": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Apoio"
+    },
+    "ro": {
+      "app_store_label": "Vezi în App Store",
+      "language_label": "Limbă",
+      "nav_home": "Acasă",
+      "nav_privacy": "Confidențialitate",
+      "nav_support": "Asistență"
+    },
+    "ru": {
+      "app_store_label": "Открыть в App Store",
+      "language_label": "Язык",
+      "nav_home": "Главная",
+      "nav_privacy": "Конфиденциальность",
+      "nav_support": "Поддержка"
+    },
+    "sk": {
+      "app_store_label": "Zobraziť v App Store",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Súkromie",
+      "nav_support": "Podpora"
+    },
+    "sl-SI": {
+      "app_store_label": "Ogled v App Storu",
+      "language_label": "Jezik",
+      "nav_home": "Domov",
+      "nav_privacy": "Zasebnost",
+      "nav_support": "Podpora"
+    },
+    "sv": {
+      "app_store_label": "Visa i App Store",
+      "language_label": "Språk",
+      "nav_home": "Start",
+      "nav_privacy": "Integritet",
+      "nav_support": "Support"
+    },
+    "ta-IN": {
+      "app_store_label": "App Store-இல் பார்க்கவும்",
+      "language_label": "மொழி",
+      "nav_home": "முகப்பு",
+      "nav_privacy": "தனியுரிமை",
+      "nav_support": "ஆதரவு"
+    },
+    "te-IN": {
+      "app_store_label": "App Storeలో చూడండి",
+      "language_label": "భాష",
+      "nav_home": "హోమ్",
+      "nav_privacy": "గోప్యత",
+      "nav_support": "సహాయం"
+    },
+    "th": {
+      "app_store_label": "ดูใน App Store",
+      "language_label": "ภาษา",
+      "nav_home": "หน้าแรก",
+      "nav_privacy": "ความเป็นส่วนตัว",
+      "nav_support": "การสนับสนุน"
+    },
+    "tr": {
+      "app_store_label": "App Store'da görüntüle",
+      "language_label": "Dil",
+      "nav_home": "Ana sayfa",
+      "nav_privacy": "Gizlilik",
+      "nav_support": "Destek"
+    },
+    "uk": {
+      "app_store_label": "Переглянути в App Store",
+      "language_label": "Мова",
+      "nav_home": "Головна",
+      "nav_privacy": "Конфіденційність",
+      "nav_support": "Підтримка"
+    },
+    "ur-PK": {
+      "app_store_label": "App Store پر دیکھیں",
+      "language_label": "زبان",
+      "nav_home": "ہوم",
+      "nav_privacy": "پرائیویسی",
+      "nav_support": "سپورٹ"
+    },
+    "vi": {
+      "app_store_label": "Xem trên App Store",
+      "language_label": "Ngôn ngữ",
+      "nav_home": "Trang chủ",
+      "nav_privacy": "Quyền riêng tư",
+      "nav_support": "Hỗ trợ"
+    },
+    "zh-Hans": {
+      "app_store_label": "在 App Store 查看",
+      "language_label": "语言",
+      "nav_home": "首页",
+      "nav_privacy": "隐私政策",
+      "nav_support": "支持"
+    },
+    "zh-Hant": {
+      "app_store_label": "在 App Store 檢視",
+      "language_label": "語言",
+      "nav_home": "首頁",
+      "nav_privacy": "隱私權",
+      "nav_support": "支援"
+    }
+  }
+}
