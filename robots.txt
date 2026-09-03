@@ -30,4 +30,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://alice51849.github.io/tripbee-support/sitemap.xml
+Sitemap: https://open.cait518.cc/tripbee-support/sitemap.xml
