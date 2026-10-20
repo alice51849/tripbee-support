@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>旅遊行程怎麼排？用 iPhone 規劃逐日行程、揪團共編與打包清單</title>
+<meta name="description" content="旅遊行程怎麼排才不亂？從逐日時間軸、時區與提醒、雨天備案，到每位旅伴的打包清單，一步步示範在 iPhone 上排好整趟旅遊行程，還能邀家人朋友一起共同編輯。">
+<link rel="canonical" href="https://open.cait518.cc/tripbee-support/travel-itinerary-planner.zh-Hant.html">
+<meta property="og:title" content="旅遊行程怎麼排？用 iPhone 規劃逐日行程、揪團共編與打包清單">
+<meta property="og:description" content="旅遊行程怎麼排才不亂？從逐日時間軸、時區與提醒、雨天備案，到每位旅伴的打包清單，一步步示範在 iPhone 上排好整趟旅遊行程，還能邀家人朋友一起共同編輯。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://open.cait518.cc/tripbee-support/travel-itinerary-planner.zh-Hant.html">
+<meta name="apple-itunes-app" content="app-id=6787754435">
+<style>
+:root{color-scheme:light dark;--bg:#fbfaf7;--fg:#1d1d1f;--muted:#5f6368;--line:rgba(128,128,128,.22);--accent:#2f6fde;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececf0;--muted:#a3a3ab;--card:#1d1d21;--accent:#7aa7ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","PingFang TC","Noto Sans CJK TC","Apple SD Gothic Neo",Roboto,sans-serif}
+a{color:var(--accent)}
+.helpdoc{max-width:820px;margin:0 auto;padding:28px 16px 64px}
+.helpdoc h1{font-size:clamp(26px,4.4vw,36px);line-height:1.3;margin:.2em 0 .4em}
+.helpdoc h2{font-size:clamp(19px,2.8vw,24px);margin:2.1em 0 .6em;scroll-margin-top:16px}
+.helpdoc h3{font-size:17px;margin:1.5em 0 .35em}
+.helpdoc .lede{font-size:17.5px;color:var(--muted);margin:0 0 1.4em}
+.helpdoc .hd-nav{display:flex;flex-wrap:wrap;gap:14px;font-size:14px;margin:0 0 20px}
+.helpdoc .hd-toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+.helpdoc .hd-toc a{display:inline-block;padding:5px 12px;border:1px solid var(--line);border-radius:999px;font-size:13.5px;text-decoration:none}
+.helpdoc .tbl{overflow-x:auto;margin:.8em 0}
+.helpdoc table{width:100%;border-collapse:collapse;font-size:15px}
+.helpdoc th,.helpdoc td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.helpdoc th{font-weight:650;white-space:nowrap}
+.helpdoc .box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px;margin:1em 0}
+.helpdoc .cta{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;margin:2.4em 0 1em}
+.helpdoc .cta a.btn{display:inline-block;margin:6px 0;padding:11px 20px;border-radius:999px;background:var(--accent);color:#fff;font-weight:650;text-decoration:none}
+.helpdoc .hd-q{margin:1.4em 0 .3em;font-weight:650;font-size:16.5px}
+.helpdoc .hd-a{margin:0 0 .2em}
+.helpdoc .hd-note{font-size:13px;color:var(--muted);margin-top:2.6em;border-top:1px solid var(--line);padding-top:14px}
+.helpdoc ul,.helpdoc ol{padding-left:1.25em}
+.helpdoc li{margin:.3em 0}
+@media print{.hd-nav,.cta,.hd-toc{display:none}body{background:#fff;color:#000}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "旅遊行程怎麼排？用 iPhone 規劃逐日行程、揪團共編與打包清單", "description": "旅遊行程怎麼排才不亂？從逐日時間軸、時區與提醒、雨天備案，到每位旅伴的打包清單，一步步示範在 iPhone 上排好整趟旅遊行程，還能邀家人朋友一起共同編輯。", "inLanguage": "zh-Hant", "mainEntityOfPage": "https://open.cait518.cc/tripbee-support/travel-itinerary-planner.zh-Hant.html", "dateModified": "2026-10-20", "author": {"@type": "Organization", "@id": "https://open.cait518.cc/ios-app-guide/#organization", "name": "Lumi Studio", "url": "https://open.cait518.cc/ios-app-guide/about.html"}, "publisher": {"@type": "Organization", "@id": "https://open.cait518.cc/ios-app-guide/#organization", "name": "Lumi Studio", "url": "https://open.cait518.cc/ios-app-guide/about.html"}, "about": {"@type": "SoftwareApplication", "name": "TripBee: 旅遊行程規劃", "operatingSystem": "iOS", "applicationCategory": "TravelApplication", "url": "https://apps.apple.com/app/id6787754435"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "zh-Hant", "mainEntity": [{"@type": "Question", "name": "沒有網路也能看旅遊行程嗎？", "acceptedAnswer": {"@type": "Answer", "text": "可以。TripBee 的核心旅程規劃可以離線使用，啟用 iCloud 後會在有網路時同步。"}}, {"@type": "Question", "name": "家人朋友可以一起編輯行程嗎？", "acceptedAnswer": {"@type": "Answer", "text": "可以。受邀者可以查看並編輯共享旅程，大家看到的是同一份行程。"}}, {"@type": "Question", "name": "打包清單可以照小孩年齡準備嗎？", "acceptedAnswer": {"@type": "Answer", "text": "可以。智慧打包清單會依旅遊天數、季節、每位家庭成員與孩子年齡自動產生，另有海灘 kit。"}}, {"@type": "Question", "name": "我的旅行資料存在哪裡？", "acceptedAnswer": {"@type": "Answer", "text": "啟用 iCloud 後，Apple CloudKit 會在你的私人 iCloud 中儲存並同步；開發者沒有旅行資料伺服器，也無法存取這些內容。"}}, {"@type": "Question", "name": "有廣告或需要訂閱嗎？", "acceptedAnswer": {"@type": "Answer", "text": "TripBee 是一次購買，無廣告、無追蹤。售價請以你所在地區的 App Store 為準。"}}]}</script>
+</head>
+<body>
+<p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">本站由這些 App 的開發者 Lumi Studio 營運，介紹的是我們自己的 App。</p>
+<main class="helpdoc">
+<nav class="hd-nav"><a href="zh-Hant/">支援首頁</a><a href="help.zh-Hant.html">說明與常見問題</a><a href="https://apps.apple.com/tw/app/id6787754435?pt=118326163&amp;ct=bm_tripbee_tw_seo&amp;mt=8">TripBee: 旅遊行程規劃</a><a href="https://play.google.com/store/apps/details?id=com.alice51849.Tripbee&amp;referrer=utm_source%3Dbm_tripbee_tw_seo%26utm_campaign%3Dtripbee" rel="noopener" data-ls-play="nav">Google Play</a></nav>
+<h1>旅遊行程怎麼排？從逐日行程到打包清單，在 iPhone 上一次排好</h1>
+<p class="lede">排<strong>旅遊行程</strong>最常見的狀況是：航班在信箱、飯店訂單在另一個 App、景點清單在群組聊天裡，打包清單寫在便條紙上，出發前一晚才發現每個人手上的行程版本都不一樣。這頁先整理一份好用的旅遊行程該有哪些內容，再一步步示範怎麼用 TripBee 在 iPhone 上排出逐日行程、和家人朋友共同編輯，並準備好雨天備案與每個人的打包清單。</p>
+<p><strong>本頁目錄</strong></p>
+<ul class="hd-toc"><li><a href="#what">一份好用的旅遊行程要有什麼</a></li><li><a href="#steps">用 TripBee 排旅遊行程的步驟</a></li><li><a href="#group">揪團出遊：讓全團看同一份旅遊行程</a></li><li><a href="#offline">沒網路也能看行程，資料留在自己的 iCloud</a></li><li><a href="#tips">讓旅遊行程真的派上用場的小技巧</a></li><li><a href="#faq">常見問題</a></li></ul>
+<h2 id="what">一份好用的旅遊行程要有什麼</h2>
+<p>旅遊行程不只是景點清單。真正到了當地，你需要的是馬上回答這幾個問題：今天先去哪裡、幾點要出門、下一站怎麼走、行李還缺什麼。所以排行程時，最好一開始就把這些內容放進去：</p><ul><li><strong>逐日時間軸</strong>：航班、飯店、餐廳與活動依時間排好，每一項都有時間、類型圖示、地址、備註與提醒。</li><li><strong>正確的時區</strong>：出國或跨國轉機時，行程時間要照當地時間顯示，提醒才不會錯過。</li><li><strong>雨天備案</strong>：戶外行程先看天氣，遇到下雨、颱風或臨時改期，馬上有替代方案。</li><li><strong>每個人的打包清單</strong>：大人、小孩、嬰兒要帶的東西都不一樣，證件、衣物、藥品、充電器一項都不能漏。</li><li><strong>全團只有一份行程</strong>：大家看的是同一份，而不是群組裡傳來傳去的五個版本。</li></ul>
+<h2 id="steps">用 TripBee 排旅遊行程的步驟</h2>
+<ol><li>建立一趟新旅程，依天數排進航班、飯店、餐廳與活動，每一項都能填時間、類型圖示、時區、地址、備註與提醒；跨國轉機和多城市行程也看得清楚。</li><li>出發前看倒數計時，出發後看「第 X 天 / 共 Y 天」的旅程進度，一眼知道離假期還有多久、今天走到哪裡。</li><li>先看天氣再安排戶外與室內活動，把下雨天的備案一起排進去。</li><li>打開智慧打包清單：依旅遊天數、季節、每位家庭成員與孩子年齡自動產生，去海邊還有海灘 kit。</li><li>邀請家人或朋友加入，受邀者可以查看並編輯同一份共享旅程。</li><li>到了當地，一鍵用 Apple 地圖從任一出發點導航到景點、飯店、餐廳、機場或集合地點，不用再複製地址。</li></ol><p>如果你已經用試算表、航班資料或備忘錄排好一部分，可以用 CSV 匯入整理進 TripBee，不必從頭重打。</p>
+<h2 id="group">揪團出遊：讓全團看同一份旅遊行程</h2>
+<p>多人旅行最容易出問題的，是行程在群組裡傳來傳去：有人改了晚餐時間，其他人手上還是舊版本。在 TripBee，受邀的家人或朋友可以查看並共同編輯同一份旅程，改了什麼大家都看得到。</p><div class="tbl"><table><thead><tr><th>情境</th><th>TripBee 裡可以幫上忙的地方</th></tr></thead><tbody><tr><td>帶小孩的親子旅行</td><td>依每位家庭成員與孩子年齡自動產生打包清單，另有海灘 kit</td></tr><tr><td>和朋友、閨蜜揪團</td><td>邀請旅伴共同編輯同一份共享旅程</td></tr><tr><td>出國、跨時區</td><td>每個行程項目都能設定時區與提醒</td></tr><tr><td>遇到下雨或颱風</td><td>結合天氣規劃，快速準備雨天備案</td></tr><tr><td>出發前想分享給大家</td><td>把整趟旅程或單日安排做成精美旅程海報</td></tr></tbody></table></div>
+<h2 id="offline">沒網路也能看行程，資料留在自己的 iCloud</h2>
+<p>在機場、山區或訊號不好的景點，行程一定要打得開。TripBee 的核心旅程規劃可以離線使用。啟用 iCloud 後，Apple CloudKit 會在你的私人 iCloud 中儲存並同步旅程、備註、打包清單、照片、票券與附件。</p><p>儲存、同步與通知由 Apple 處理；開發者沒有旅行資料伺服器，也無法存取這些內容。另外還有完整的本機備份與還原，換手機也安心。TripBee 是一次購買、無廣告、無追蹤，實際售價以你所在地區的 App Store 顯示為準。</p>
+<h2 id="tips">讓旅遊行程真的派上用場的小技巧</h2>
+<ul><li>先放時間固定的項目（航班、入住、預約好的門票），再把其他活動排進空檔。</li><li>趕飛機、集合這類不能遲到的項目，一定要設提醒。</li><li>每個戶外行程的日子，都先想好一個下雨時的替代去處。</li><li>出發前幾天，請每位旅伴各自確認自己的打包清單。</li><li>把票券照片和重要附件放進旅程裡，排隊時不用再翻信箱找。</li></ul>
+<div class="cta">
+<p><strong>想直接在 iPhone 上做？</strong> 用 TripBee 排好逐日旅遊行程、邀家人朋友一起共編、先準備雨天備案，再讓打包清單依每位旅伴與孩子年齡自動產生。</p>
+<p><a class="btn" href="https://apps.apple.com/tw/app/id6787754435?pt=118326163&amp;ct=bm_tripbee_tw_seo&amp;mt=8">在 App Store 查看 TripBee: 旅遊行程規劃</a></p>
+<p><strong>使用 Android？</strong></p>
+<p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.Tripbee&amp;referrer=utm_source%3Dbm_tripbee_tw_seo%26utm_campaign%3Dtripbee" rel="noopener" data-ls-play="cta">在 Google Play 查看 TripBee: 旅遊行程規劃</a></p>
+<p>已經在用 TripBee: 旅遊行程規劃？可以到 App Store 留下評分或評論。 <a href="https://apps.apple.com/app/id6787754435?action=write-review">撰寫評論</a></p>
+</div>
+<h2 id="faq">常見問題</h2>
+<p class="hd-q">沒有網路也能看旅遊行程嗎？</p>
+<p class="hd-a">可以。TripBee 的核心旅程規劃可以離線使用，啟用 iCloud 後會在有網路時同步。</p>
+<p class="hd-q">家人朋友可以一起編輯行程嗎？</p>
+<p class="hd-a">可以。受邀者可以查看並編輯共享旅程，大家看到的是同一份行程。</p>
+<p class="hd-q">打包清單可以照小孩年齡準備嗎？</p>
+<p class="hd-a">可以。智慧打包清單會依旅遊天數、季節、每位家庭成員與孩子年齡自動產生，另有海灘 kit。</p>
+<p class="hd-q">我的旅行資料存在哪裡？</p>
+<p class="hd-a">啟用 iCloud 後，Apple CloudKit 會在你的私人 iCloud 中儲存並同步；開發者沒有旅行資料伺服器，也無法存取這些內容。</p>
+<p class="hd-q">有廣告或需要訂閱嗎？</p>
+<p class="hd-a">TripBee 是一次購買，無廣告、無追蹤。售價請以你所在地區的 App Store 為準。</p>
+
+<div class="box"><p>TripBee 是獨立開發的 App，與 Apple 沒有隸屬關係。iCloud、CloudKit 與 Apple 地圖是 Apple 的服務，能否使用取決於你的裝置、iOS 版本與帳號設定。</p></div>
+
+<p class="hd-note">本頁由 TripBee: 旅遊行程規劃 開發者在 AI 協助下撰寫，並對照 App Store 商店頁內容核對。最後更新：2026-10-20。</p>
+</main>
+</body>
+</html>
