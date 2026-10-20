@@ -31,3 +31,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://open.cait518.cc/tripbee-support/sitemap.xml
+
+Sitemap: https://open.cait518.cc/tripbee-support/bm-sitemap.xml
