@@ -1,0 +1,26 @@
+{
+  "name": "TripBee Pro: Trip Planner",
+  "short_name": "TripBee Pro: Trip Planner",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a3/77/15a377c6-8b49-f12b-e3db-c1283a6c2dd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.alice51849.Tripbee",
+      "url": "https://play.google.com/store/apps/details?id=com.alice51849.Tripbee&referrer=utm_source%3Dsupport_site%26utm_medium%3Dpwa_banner%26utm_campaign%3Dtripbee"
+    }
+  ],
+  "prefer_related_applications": true,
+  "x_generator": "ls-pwa/1"
+}
