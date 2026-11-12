@@ -17,3 +17,9 @@
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
+
+## Questions before you download
+
+<!-- sqe-blitz:start -->
+- [旅行計画 共同編集アプリ：ダウンロード前の質問（日本語）](https://open.cait518.cc/tripbee-support/kaikiri-kyodo-henshu-ryoko-app-qa.ja.html)
+<!-- sqe-blitz:end -->
