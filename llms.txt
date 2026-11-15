@@ -22,4 +22,5 @@
 
 <!-- sqe-blitz:start -->
 - [旅行計画 共同編集アプリ：ダウンロード前の質問（日本語）](https://open.cait518.cc/tripbee-support/kaikiri-kyodo-henshu-ryoko-app-qa.ja.html)
+- [What is TripBee Pro? Shared trip planner: who it is for, pricing, differences (English)](https://open.cait518.cc/tripbee-support/what-is-tripbee.html)
 <!-- sqe-blitz:end -->
